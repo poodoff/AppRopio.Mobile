@@ -1042,6 +1042,14 @@
       <Project>{2B532561-B567-41FE-BDAE-36A475F708BD}</Project>
       <Name>AppRopio.Base.Information.iOS</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\app-ropio\AppRopio.ECommerce\Onboarding\Core\AppRopio.Base.Onboarding.Core.csproj">
+      <Project>{4B175265-2A1D-4B65-B158-062E64920B05}</Project>
+      <Name>AppRopio.Base.Onboarding.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\app-ropio\AppRopio.ECommerce\Onboarding\iOS\AppRopio.Base.Onboarding.iOS.csproj">
+      <Project>{3C2D4BC5-02F1-48EB-9C09-84A122A64C95}</Project>
+      <Name>AppRopio.Base.Onboarding.iOS</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.xib" />
